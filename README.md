@@ -1,4 +1,8 @@
+<h1 align="center">🔥 “I don’t just move data — I move decisions.”</h1>
+
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A91B&size=24&center=true&vCenter=true&lines=Data+Engineer+%40+Scale;ML-Ready+Pipelines+%7C+AWS+%7C+Airflow+%7C+Spark;Big+Data+%7C+Streaming+%7C+Analytics+%7C+Infra+Automation">
+</p>
 
 <h1 align="center">Hey there 👋, I'm Ashish Kesari</h1>
 <h3 align="center">🚀 Data Engineer | AWS Certified | Big Data & ML Practitioner | Builder @ Scale</h3>
@@ -21,17 +25,19 @@
 ![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI Certified](https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI Certified](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack Overview
 
-### 💡 Programming  
+### 💡 Programming & Scripting  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -50,8 +56,6 @@
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </p>
 
-> 🛠️ I’ve built robust pipelines using this stack — from **S3 ingestion** → **Glue transformation** → **Athena/Redshift querying** → **QuickSight dashboards**, all monitored through **CloudWatch + Step Functions** and secured with **IAM** best practices.
-
 ---
 
 ## 🔄 Big Data Stack
@@ -65,8 +69,6 @@
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
-
-> 🔄 I design and automate pipelines that leverage **Spark for distributed compute**, **Kafka for real-time ingestion**, and **Airflow/NiFi** for workflow orchestration. This stack powers my real-time & batch data solutions across domains.
 
 ---
 
@@ -91,9 +93,3 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/Ashish%20Kesari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishk18)
-
----
-
-## 🔥 Motto
-
-> _“I don’t just move data — I move decisions.”_
