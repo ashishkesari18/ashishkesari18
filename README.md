@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Engineer | AWS Certified | Big Data | ETL/ELT | Scalable pipelines</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A91B&size=24&center=true&vCenter=true&lines=I+don’t+just+move+data+—+I+move+decisions.;Data+Engineer+@+Scale;Builder+of+ML-Ready+Pipelines+%F0%9F%9A%80;Big+Data+%7C+ML+Ops+%7C+AWS+%7C+Airflow+%7C+Spark">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A91B&size=24&center=true&vCenter=true&lines= Data Engineer">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎯 4+ years of experience as a **Data Engineer** across healthcare & fintech  
 - 🏥 Currently @ Kaiser Permanente – leading predictive analytics platforms  
 - 🔐 Former @ Capgemini – real-time fraud detection using Kafka + Spark  
-- ☁️ AWS | Azure | Power BI | Microsoft Certified  
+- ☁️ AWS | Azure | GCP  
 - 🛠️ Passionate about building **ML-ready, production-grade pipelines**  
 - 📍 Based in Maryland, USA | Open to global challenges
 
@@ -23,7 +23,7 @@
 ![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_SAA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI Certified](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Power BI Data Analyst Certified](https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure Data Fundamentals](https://img.shields.io/badge/Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
