@@ -1,9 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ashish Kesari</h1>
 <h3 align="center">🚀 Data Engineer | AWS Certified | Big Data | Spark | ETL/ELT</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A91B&size=24&center=true&vCenter=true&lines= Data+Engineer">
-</p>
 
 ---
 
