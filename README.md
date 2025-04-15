@@ -29,43 +29,24 @@
 
 ---
 
-## 💻 Technical Stack
+## 💻 Technical Skills with Icons
 
-**💡 Programming:** Python, SQL, R, C++, HTML  
-**📦 Packages:** NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, Seaborn  
-**🔧 Methodologies:** SDLC, Agile, Waterfall  
-**💻 IDEs:** VS Code, Jupyter, PyCharm, IntelliJ  
-**🧠 ML & NLP:** Machine Learning Algorithms, NLP, Data Mining, Statistical Methods  
-**🔍 Data Quality & Governance:** Data Profiling, DQ Rules, DWH, Transformation  
-
----
-
-## 🗄️ Databases
-
-**Relational:** MySQL, PostgreSQL, MSSQL, SQL Server, PL/SQL, DB2  
-**NoSQL:** MongoDB, DynamoDB  
-**Query Engines:** Athena, Redshift, Snowflake, Google BigQuery
-
----
-
-## ☁️ Cloud Platforms
-
-**AWS:** Redshift, Glue, Lambda, S3, QuickSight, Step Functions, IAM, CloudWatch  
-**Azure:** Azure Blob, Data Lake, Databricks  
-**GCP:** BigQuery  
-**Infra & Orchestration:** Terraform, Jenkins, Maven, Docker, Kubernetes
-
----
-
-## 🔄 Data Engineering & Big Data Stack
-
-Apache Spark, Apache Kafka, Apache Beam, Apache NiFi, Airflow, Hive, Hadoop, Informatica, Talend, SSIS, SSRS, SSAS, ELT/ETL, PySpark
-
----
-
-## 📊 Visualization & Reporting Tools
-
-Power BI, Tableau, QuickSight, Excel (Pivot Tables, VLOOKUP), SSRS
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
