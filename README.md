@@ -21,7 +21,7 @@
 ![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI Certified](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI Certified](https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
