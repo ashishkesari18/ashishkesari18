@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Ashish Kesari</h1>
-<h3 align="center">🚀 Data Engineer | AWS Certified | Big Data & ML Practitioner | Builder @ Scale</h3>
+<h3 align="center">🚀 Data Engineer | AWS Certified | Big Data | ETL/ELT | Scalable pipelines</h3>
 
 ---
 
