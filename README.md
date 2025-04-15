@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A91B&size=24&center=true&vCenter=true&lines=I+don’t+just+move+data+—+I+move+decisions.;Data+Engineer+@+Scale;Builder+of+ML-Ready+Pipelines+%F0%9F%9A%80;Big+Data+%7C+ML+Ops+%7C+AWS+%7C+Airflow+%7C+Spark">
-</p>
 
 <h1 align="center">Hey there 👋, I'm Ashish Kesari</h1>
 <h3 align="center">🚀 Data Engineer | AWS Certified | Big Data & ML Practitioner | Builder @ Scale</h3>
